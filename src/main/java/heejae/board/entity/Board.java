@@ -19,4 +19,10 @@ public class Board{
 
     private String content;
 
+    //파일 업로드
+    private String filename;
+
+    //파일위치
+    private String filepath;
+
 }
